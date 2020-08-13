@@ -1,5 +1,6 @@
 # Tomato-plant-Dataset
 
+<b><h2> Requirements: </h2></b>
 1. Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
 
        git clone https://github.com/AkhilaMadduri/Tomato-plant-Dataset.git
