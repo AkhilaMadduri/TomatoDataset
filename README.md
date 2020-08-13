@@ -11,3 +11,9 @@
 3. Train data
              
        train_data.py - to generate train images and train labels
+       
+<b><h2> Screenshots: </h2></b>
+
+![](screenshots/dataset.png "Data set")
+
+![](screenshots/dataset1.png "Data set")
