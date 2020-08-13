@@ -17,8 +17,8 @@
 
 Train dataset: 
 
-![](screenshots/dataset.png "Train Data set")
+![](dataset.png "Train Data set")
 
 Test dataset:
 
-![](screenshots/datasset1.png "Test Data set")
+![](datasset1.png "Test Data set")
