@@ -6,7 +6,7 @@
 
 2. Download model from the following link and paste it in the `\dataset` folder:
 
-       https://drive.google.com/file/d/1lw5J29JfjF54CIPm6b3qV_c23dEVBbQf/view?usp=sharing
+       https://drive.google.com/open?id=1DVy0LyUUfJciyo7BUFm1sHKSRdTVJgjF
        
 3. Train data
              
