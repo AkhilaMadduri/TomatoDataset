@@ -15,6 +15,10 @@
        
 <b><h2> Screenshots: </h2></b>
 
+Train dataset: 
+
 ![](screenshots/dataset.png "Data set")
+
+Test dataset:
 
 ![](screenshots/dataset1.png "Data set")
