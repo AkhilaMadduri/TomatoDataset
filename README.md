@@ -8,4 +8,6 @@
 
        https://drive.google.com/file/d/1lw5J29JfjF54CIPm6b3qV_c23dEVBbQf/view?usp=sharing
        
-       training_data.py - to generate train images and train labels
+3. Train data
+             
+       train_data.py - to generate train images and train labels
