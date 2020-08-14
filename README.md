@@ -1,5 +1,7 @@
 # Tomato-plant-Dataset
 
+<h4><b> Bacterial_spot, Early_blight, Late_blight, Septoria_leaf_spot </b></h4>
+
 <b><h2> Requirements: </h2></b>
 1. Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
 
@@ -7,7 +9,7 @@
 
 2. Download model from the following link and paste it in the `\dataset` folder:
 
-       https://drive.google.com/open?id=1DVy0LyUUfJciyo7BUFm1sHKSRdTVJgjF
+       https://drive.google.com/file/d/1lw5J29JfjF54CIPm6b3qV_c23dEVBbQf/view?usp=sharing
        
 3. Train data
              
