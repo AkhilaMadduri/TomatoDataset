@@ -20,11 +20,11 @@
 
 <b><h3> Train dataset: </h3></b>
 
-![](dataset.png "Train Data set")
+![](4diseases/dataset.png "Train Data set")
 
 <b><h3> Test dataset: </h3></b>
 
-![](datasset1.png "Test Data set")
+![](4diseases/dataset1.png "Test Data set")
 
 <h2> 10 diseases </h2>
 Dataset of 10 diseases of a tomato plant
