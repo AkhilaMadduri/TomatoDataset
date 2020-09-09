@@ -1,5 +1,6 @@
 # Tomato-plant-Dataset
 
+<h2> 4 Diseases </h2>
 <h4><b> Bacterial_spot, Early_blight, Late_blight, Septoria_leaf_spot </b></h4>
 
 <b><h2> Requirements: </h2></b>
@@ -24,3 +25,15 @@
 <b><h3> Test dataset: </h3></b>
 
 ![](datasset1.png "Test Data set")
+
+<h2> 10 diseases </h2>
+Dataset of 10 diseases of a tomato plant
+
+<h2><b> Requirements: </b></h2>
+
+ * Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
+
+        git clone https://github.com/AkhilaMadduri/Tomato-plant-Dataset-10-dieases.git
+       
+* Download the dataset from [here](https://drive.google.com/open?id=1DVy0LyUUfJciyo7BUFm1sHKSRdTVJgjF)
+* We can train the data by using train_data.py file
