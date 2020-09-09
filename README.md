@@ -6,7 +6,7 @@
 <b><h2> Requirements: </h2></b>
 * Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
 
-       git clone https://github.com/AkhilaMadduri/Tomato-plant-Dataset.git
+       git clone https://github.com/AkhilaMadduri/TomatoDataset.git
 
 * Download model from the following link and paste it in the `\dataset` folder:
 
@@ -33,7 +33,7 @@ Dataset of 10 diseases of a tomato plant
 
  * Download the repository by clicking on the download button or type the following command in CMD to clone the repository:
 
-        git clone https://github.com/AkhilaMadduri/Tomato-plant-Dataset-10-dieases.git
+        git clone https://github.com/AkhilaMadduri/TomatoDataset.git
        
 * Download the dataset from [here](https://drive.google.com/open?id=1DVy0LyUUfJciyo7BUFm1sHKSRdTVJgjF)
 * We can train the data by using train_data.py file
