@@ -8,7 +8,7 @@
 
        git clone https://github.com/AkhilaMadduri/TomatoDataset.git
 
-* Download model from the following link and paste it in the `\dataset` folder:
+* Download model from the following link and paste it in the `\4diseases\dataset` folder:
 
        https://drive.google.com/file/d/1lw5J29JfjF54CIPm6b3qV_c23dEVBbQf/view?usp=sharing
        
